@@ -1,6 +1,6 @@
 Name:		texlive-ndsu-thesis-2022
 Version:	63881
-Release:	1
+Release:	2
 Summary:	North Dakota State University disquisition class 2022
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ndsu-thesis-2022
